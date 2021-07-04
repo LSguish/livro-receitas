@@ -3,4 +3,5 @@
 ## testando arquivo
 
 - teste 1
-- teste2
+- teste 2
+- teste 3
